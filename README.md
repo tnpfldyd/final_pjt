@@ -4,7 +4,7 @@
 > 
 > [Backdend-Domain](https://bobfullbean-env.eba-mxtkhmg5.ap-northeast-2.elasticbeanstalk.com/) 
 >
-> [Frontend-Domain](https://master.d3n2xysrd0lvj9.amplifyapp.com/main)
+> [Frontend-Domain](https://master.d3n2xysrd0lvj9.amplifyapp.com/intro)
 >
 > [Frontend-Repository](https://github.com/Yoonsik-Shin/bobfull_react/)
 
@@ -44,17 +44,31 @@
 ## 🧭Preview
 
 - 메인 화면
-	- ![메인메뉴](README.assets/최프메인1.gif)
+	
+	![메인메뉴](README.assets/최프메인1.gif)
 - 로그인 페이지
-  - ![프로필](README.assets/최프로그인.gif)
-
+  
+  ![프로필](README.assets/최프로그인.gif)
+  
 - 룰렛
-  - ![af2ec0d6d8](README.assets/최프룰렛.gif)
-
+  
+  ![af2ec0d6d8](README.assets/최프룰렛.gif)
+  
 - 리뷰 작성 및 채팅
-  - ![6e8264aacc](README.assets/최프레스디테일.gif)
 
+  ![6e8264aacc](README.assets/최프레스디테일.gif)
 
+- 커뮤니티
+
+  ![최프커뮤니티](README.assets/최프커뮤니티.gif)
+
+- 카테고리
+
+  ![최프카테고리스크롤](README.assets/최프카테고리스크롤.gif)
+
+- 모임
+
+  ![최프모임](README.assets/최프모임.gif)
 
 ## 🗃️Modeling
 
