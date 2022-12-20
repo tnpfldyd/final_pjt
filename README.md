@@ -44,15 +44,15 @@
 ## 🧭Preview
 
 - 메인 화면
-	- ![메인메뉴](./assets/%EB%A9%94%EC%9D%B8%EB%A9%94%EB%89%B4.JPG)
-- 프로필 페이지
-  - ![프로필](./assets/%ED%94%84%EB%A1%9C%ED%95%84.JPG)
+	- ![메인메뉴](README.assets/최프메인1.gif)
+- 로그인 페이지
+  - ![프로필](README.assets/최프로그인.gif)
 
 - 룰렛
-  - ![af2ec0d6d8](./assets/af2ec0d6d8.gif)
+  - ![af2ec0d6d8](README.assets/최프룰렛.gif)
 
-- 리뷰 작성
-  - ![6e8264aacc](./assets/6e8264aacc.gif)
+- 리뷰 작성 및 채팅
+  - ![6e8264aacc](README.assets/최프레스디테일.gif)
 
 
 
