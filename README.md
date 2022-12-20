@@ -1,5 +1,6 @@
 # BOBfull
-
+배포 문제로 프로젝트도중 레포 변경
+[레포 이동 전](https://github.com/tnpfldyd/bobfull_frontend) 
 > 익명 기반 식사 매칭
 > 
 > [Backdend-Domain](https://bobfullbean-env.eba-mxtkhmg5.ap-northeast-2.elasticbeanstalk.com/) 
